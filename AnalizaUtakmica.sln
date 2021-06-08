@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalizaUtakmica", "AnalizaUtakmica\AnalizaUtakmica.csproj", "{C5311A81-192F-47B4-BB7A-859ED64C40E5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{ADDBBA8D-58E9-42E5-900E-740DC75AE654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5311A81-192F-47B4-BB7A-859ED64C40E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5311A81-192F-47B4-BB7A-859ED64C40E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5311A81-192F-47B4-BB7A-859ED64C40E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5311A81-192F-47B4-BB7A-859ED64C40E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADDBBA8D-58E9-42E5-900E-740DC75AE654}.Debug|Any CPU.ActiveCfg = Debug
+		{ADDBBA8D-58E9-42E5-900E-740DC75AE654}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A808450-B416-4BC5-AE0E-56482B0E9626}
+	EndGlobalSection
+EndGlobal
